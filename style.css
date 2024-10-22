@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+h1 {
+    color: aliceblue;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+h3 {
+    color: aquamarine;
+}
+p {
+    text-align: center;
+}
