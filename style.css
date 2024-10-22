@@ -18,6 +18,8 @@ p {
     text-align: center;
 }
 header {
+    display: flex;
+    justify-content: center;
     border-bottom: solid 3px rgb(0, 126, 236);
     padding-bottom: 3px;
 }
