@@ -16,6 +16,7 @@ h3 {
 }
 p {
     text-align: center;
+    color: chartreuse;
 }
 header {
     display: flex;
