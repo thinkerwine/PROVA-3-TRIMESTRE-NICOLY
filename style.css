@@ -8,7 +8,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    color: blueviolet;
+    color: rgb(226, 43, 43);
     text-align: center;
 }
 h3 {
@@ -21,7 +21,7 @@ p {
 header {
     display: flex;
     justify-content: center;
-    border-bottom: solid 3px rgb(0, 126, 236);
+    border-bottom: solid 3px rgb(0, 0, 0);
     padding-bottom: 3px;
     font-size: 20px;
 }
