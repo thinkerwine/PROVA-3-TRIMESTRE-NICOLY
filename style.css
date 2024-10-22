@@ -17,3 +17,22 @@ h3 {
 p {
     text-align: center;
 }
+header {
+    border-bottom: solid 3px rgb(0, 126, 236);
+    padding-bottom: 3px;
+}
+.rick {
+    margin-right: 5px;
+}
+.rock {
+    margin-right: 5px;
+}
+.reck {
+    margin-right: 5px;
+}
+.pastel {
+    width: 200px;
+}
+.pizza {
+    width: 300px;
+}
